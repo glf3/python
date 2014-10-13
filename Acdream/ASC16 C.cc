@@ -1,10 +1,10 @@
 /*
 Source:Andrew Stankevich's Contest Problem C
-Title:ASCDomino in Casino
+Title:Domino in Casino
 Url:http://acdream.info/contest?cid=1165#problem-C
 
 给定一个nxm图，让你用K个1x2的多米洛骨牌去覆盖图，所获得价值为被覆盖的点上权值之积，保证一定能放置所有的骨牌，求最大值。
-以下标(i+j)来奇偶建图，对于相邻的点建容量为1，费用为两两之积的边。建立源点、汇点分别与偶数、奇数点相连，建立超级源点像先前源点建容量为2，
+以下标(i+j)来奇偶建图，对于相邻的点建容量为1，费用为两两之积的边。建立源点、汇点分别与偶数、奇数点相连，建立超级源点与先前源点建容量为2，
 费用为0的边，跑费用流即可。
 */
 #include <iostream>  
