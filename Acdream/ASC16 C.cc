@@ -1,5 +1,5 @@
 /*
-Source:Andrew Stankevich's Contest Problem C
+Source:Andrew Stankevich's Contest (16) Problem C
 Title:Domino in Casino
 Url:http://acdream.info/contest?cid=1165#problem-C
 
