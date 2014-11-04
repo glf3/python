@@ -1,4 +1,4 @@
 Python
 ===
-code of python
-IDLE Environment is Python 3.3.0
+code of Python  
+IDLE is Python 3.3.0
