@@ -1,4 +1,3 @@
 Python
 ===
-code of Python  
-IDLE is Python 3.3.0
+IDLE: 3.3.0
